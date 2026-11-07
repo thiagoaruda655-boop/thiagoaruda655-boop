@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá, eu sou o Thiago de Arruda 👋
 
-<!--
-**thiagoaruda655-boop/thiagoaruda655-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando FullStack no DevClub
+- 💻 Tecnologias: HTML | CSS | JavaScript
+- 📍 Ipojuca - PE, Brasil
+- 🚀 Projeto atual: [Relógio Primordial](https://github.com/thiagoaruda655-boop/relogio-primordial) - Painel Interativo do Duelo de Mitos
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Em busca da primeira oportunidade como Dev Junior
