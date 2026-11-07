@@ -1,7 +1,6 @@
 ![Banner](./banner.png)
 
 ### Olá, eu sou o Thiago de Arruda 👋
-### Olá, eu sou o Thiago de Arruda 👋
 
 - 🌱 Estudando FullStack no DevClub
 - 💻 Tecnologias: HTML | CSS | JavaScript
